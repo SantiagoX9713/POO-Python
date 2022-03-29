@@ -1,4 +1,3 @@
-from __future__ import print_function
 import random
 
 def busqueda_lineal(lista, objetivo):
